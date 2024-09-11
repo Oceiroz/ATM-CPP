@@ -1,0 +1,6 @@
+﻿  Bank Teller Machine.cpp
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Bank Teller Machine\Bank Teller Machine.cpp(115,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Bank Teller Machine\Bank Teller Machine.cpp(125,44): warning C4018: '>': signed/unsigned mismatch
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Bank Teller Machine\Bank Teller Machine.cpp(309,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Bank Teller Machine\Bank Teller Machine.cpp(334,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Bank Teller Machine.vcxproj -> C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Bank Teller Machine\Debug\Bank Teller Machine.exe
